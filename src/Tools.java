@@ -12,6 +12,6 @@ class Tools{
         num2 = in.nextInt();
         num3 = in.nextInt();
         result=num1+num2+num3;
-        System.out.println("The result after addition is "+result);
+        System.out.println("The result after addition is----> "+result);
     }
 }
